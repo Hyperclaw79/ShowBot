@@ -1,0 +1,5 @@
+description: ShowBot is a Discord python bot that fetches you the theatres and showtimes for a movie of your choice, in your city, for a given date, interactively. Integrate it with your Discord server in under five minutes. It works using the ShowTimes API written by Hyper. This is a RESTful API that fetches the showtimes and returns it as a json. It is written in Python Flask and hosted over an Nginx server through Gunicorn.
+keywords: python, python3, flask, boilerplate, bot, discord, showbot, hyper
+media: {}
+name: showbot
+platformVersion: v0.15.21

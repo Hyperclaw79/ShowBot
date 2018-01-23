@@ -1,0 +1,7 @@
+- alias: hasura
+  config:
+    configmap: controller-conf
+    namespace: bipolarity48-hasura
+  data: null
+  kubeContext: bipolarity48
+  name: bipolarity48

@@ -1,0 +1,8 @@
+flask
+
+requests
+
+gunicorn
+
+lxml
+bs4
