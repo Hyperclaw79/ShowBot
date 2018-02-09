@@ -79,4 +79,4 @@ Use Hasura's filestore API to cache data for commonly searched movies.
 ## Acknowledgements
 
 1. Special thanks to "Rapptz" for the [discord bindings for python](https://github.com/Rapptz/discord.py/tree/rewrite).
-2. Built on top of Hasura boilerplate [hello-golang-raw](https://hasura.io/hub/project/hasura/hello-python-flask).
+2. Built on top of Hasura boilerplate [hello-python-flask](https://hasura.io/hub/project/hasura/hello-python-flask).
